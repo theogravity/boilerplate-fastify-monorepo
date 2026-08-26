@@ -1,5 +1,7 @@
 # Bun Fastify Turbo Monorepo Starter
 
+Project is archived. Use the [elysiajs starter instead](https://github.com/theogravity/bun-elysiajs-starter-turbo-monorepo).
+
 A starter project for building an API server using **Bun**, Typescript, Fastify v5, and Kysely with Postgres.
 
 > **This project uses [Bun](https://bun.sh/) as its runtime and package manager.** Bun provides faster installs, native TypeScript execution, and improved performance over Node.js.
